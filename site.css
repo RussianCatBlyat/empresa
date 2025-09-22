@@ -1,4 +1,8 @@
 .navbar-expand-lg {
     --bs-container-color: brown;
     --bs-container-bg: brown;
+}footer.fixed-bottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
